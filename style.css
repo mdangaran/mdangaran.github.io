@@ -13,10 +13,17 @@ body {
 	margin: 40px auto 60px;
 }
 
-#content-contact {
+#content-name {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	font-size: 36px;
+	font-weight: bold;
+}
+
+#content-contactinfo {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 16px;
 	font-weight: bold;
 	border-bottom: 1px solid #999;
 }
