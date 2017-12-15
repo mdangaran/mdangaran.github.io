@@ -1,4 +1,4 @@
-body {
+ body {
 	font: 16px arial, Sans-Serif;
 	background: url(seamless_19_canvastest.png);
 }
@@ -44,7 +44,7 @@ body {
 }
 
 h3 {
-	border-bottom: 1px solid #999;
+	border-bottom: 1px solid #999; color: red;
 }
 
 h4{
