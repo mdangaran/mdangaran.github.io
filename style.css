@@ -16,7 +16,7 @@ body {
 
 #content-name {
 	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
+	padding: 0 0 8px 0;
 	font-size: 36px;
 	font-weight: bold;
 	color: #cc0000;
@@ -24,6 +24,7 @@ body {
 
 #content-contactinfo {
 	margin: 0 0 16px 0;
+	padding: 0 0 8px 0;
 	font-size: 16px;
 	border-bottom: 2px solid #999;
 }
