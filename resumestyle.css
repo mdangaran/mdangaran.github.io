@@ -1,0 +1,60 @@
+body {
+	font: 16px arial, Sans-Serif;
+	background: url(seamless_19_canvastest.png);
+}
+
+#pic {
+	float: right;
+}
+
+
+#container {
+	width: 800px;
+	margin: 50px auto 60px;
+}
+
+#content-name {
+	margin: 0 0 16px 0;
+	padding: 0 0 8px 0;
+	font-size: 36px;
+	font-weight: bold;
+	color: #cc0000;
+}
+
+#content-contactinfo {
+	margin: 0 0 16px 0;
+	padding: 0 0 8px 0;
+	font-size: 16px;
+	font-style: italic;
+	border-bottom: 2px solid #999;
+	
+	
+}
+
+#content-summary {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+	font-size: 16px;
+	
+}
+
+#content-professionalheader {
+	font-size: 28px;
+}
+
+.date {
+	float: right;
+}
+
+h2 {
+	font-size: 20px; color: #cc0000;
+}
+
+h3 {
+	border-bottom: 1px solid #999; color: #cc0000;
+}
+
+h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
